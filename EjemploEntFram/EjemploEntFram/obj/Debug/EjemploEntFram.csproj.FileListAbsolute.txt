@@ -1,0 +1,13 @@
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\bin\Debug\EjemploEntFram.exe.config
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\bin\Debug\EjemploEntFram.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\bin\Debug\EjemploEntFram.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\bin\Debug\EntityFramework.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\bin\Debug\EntityFramework.xml
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\obj\Debug\EjemploEntFram.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\obj\Debug\EjemploEntFram.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\obj\Debug\EjemploEntFram.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\obj\Debug\EjemploEntFram.csproj.CopyComplete
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\obj\Debug\EjemploEntFram.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\EjemploEntFram\EjemploEntFram\obj\Debug\EjemploEntFram.pdb
